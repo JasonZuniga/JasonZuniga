@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/jason-zuniga/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Jason! <br/><a href="https://github.com/JasonZuniga/JasonZuniga/tree/main">Programmer</a>, <a href="https://www.linkedin.com/in/jason-zuniga/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
