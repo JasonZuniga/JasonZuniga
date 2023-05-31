@@ -13,4 +13,4 @@
 [twitter]: 
 [youtube]: 
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/jason-zuniga/
